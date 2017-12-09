@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Eclipse Checkstyle Plug-in
+Bundle-SymbolicName: net.sf.eclipsecs.branding
+Bundle-Version: 7.6.0.qualifier
+Bundle-Vendor: http://eclipse-cs.sf.net/
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
